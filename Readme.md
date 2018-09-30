@@ -1,3 +1,2 @@
 Project init
-This is the edits of redme from git_tutorial
-More changes in origin
+(Changed in the original and pushed to shared)
